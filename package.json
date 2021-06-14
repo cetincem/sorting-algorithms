@@ -4,6 +4,7 @@
   "description": "Sorting Algorithms in JavaScript",
   "main": "index.js",
   "dependencies": {
+    "moment": "^2.29.1"
   },
   "devDependencies": {},
   "scripts": {
